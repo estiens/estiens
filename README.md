@@ -34,12 +34,15 @@ Currently open to contract work (preferred) and FTE and PTE opportunities (if it
 
 <details>
     <summary>More About Me</summary>
-    
-    Researcher turned social worker turned coder. Still figuring out what I want to be when I grow up, still trying to figure out leverage points to change the system. Chaotic good and quite nice according to most people. Pronouns: he/him.
-    
-    Interested in not only writing code to solve problems, but the process of deciding what code to write as being a doorway into collaborative decision making about goals, priorities, process, values, etc. Sometimes it's the code you decide not to write that solves your problem.
-    
-    Primarily back-end work. Proficient with Ruby (Rails/Sinatra), good enough with JS (primarily React these days) to be considered full-stack, though it's not where I spend most of my time. Fair amount of ops experience with Heroku, AWS, Ansible, containers, etc. Okay in Python. Learning Elm and Elixir at the moment. Enjoy thinking through data structures, pairing on weird bugs, and wrangling and documenting impossible APIs. Always a side project or two in the works...
+    <p>
+      Researcher turned social worker turned coder. Still figuring out what I want to be when I grow up, still trying to figure out leverage points to change the system. Chaotic good and quite nice according to most people. Pronouns: he/him.
+    </p>
+    <p>
+      Interested in not only writing code to solve problems, but the process of deciding what code to write as being a doorway into collaborative decision making about goals, priorities, process, values, etc. Sometimes it's the code you decide not to write that solves your problem.
+    </p>
+    <p>
+      Primarily back-end work. Proficient with Ruby (Rails/Sinatra), good enough with JS (primarily React these days) to be considered full-stack, though it's not where I spend most of my time. Fair amount of ops experience with Heroku, AWS, Ansible, containers, etc. Okay in Python. Learning Elm and Elixir at the moment. Enjoy thinking through data structures, pairing on weird bugs, and wrangling and documenting impossible APIs. Always a side project or two in the works...
+    </p>
 </details>
 
 --
