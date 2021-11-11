@@ -49,7 +49,7 @@ Currently open to contract work (preferred) and FTE and PTE opportunities (if it
     </p>
 </details>
 
-![github stats for estiens](https://share.getcloudapp.com/mXuPx90E)
+![github stats for estiens](https://p198.p4.n0.cdn.getcloudapp.com/items/mXuPx90E/6adb1d2a-b0d1-4aa3-8185-224466439596.png?source=viewer&v=ce4649bfcb97779e9e6adc055376c479)
 <br/>
 
 Page last updated:
