@@ -47,9 +47,9 @@ Currently open to contract work (preferred) and FTE and PTE opportunities (if it
     <p>
       Primarily back-end work. Proficient with Ruby (Rails/Sinatra), good enough with JS (primarily React these days) to be considered full-stack, though it's not where I spend most of my time. Fair amount of ops experience with Heroku, AWS, Ansible, containers, etc. Okay in Python. Learning Elm and Elixir at the moment. Enjoy thinking through data structures, pairing on weird bugs, and wrangling and documenting impossible APIs. Always a side project or two in the works...
     </p>
+<img style="width: 250" src="https://p198.p4.n0.cdn.getcloudapp.com/items/mXuPx90E/6adb1d2a-b0d1-4aa3-8185-224466439596.png?source=viewer&v=ce4649bfcb97779e9e6adc055376c479">
 </details>
 
-![github stats for estiens](https://p198.p4.n0.cdn.getcloudapp.com/items/mXuPx90E/6adb1d2a-b0d1-4aa3-8185-224466439596.png?source=viewer&v=ce4649bfcb97779e9e6adc055376c479)
 <br/>
 
 Page last updated:
