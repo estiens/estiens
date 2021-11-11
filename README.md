@@ -52,7 +52,7 @@ Currently open to contract work (preferred) and FTE and PTE opportunities (if it
 --
 <details>
     <summary>Moar stats please</summary>
-     [![github stats for estiens](https://github-readme-stats.vercel.app/api?username=estiens&count_private=true&show_icons=true&theme=synthwave)](https://github.com/estiens/github-readme-stats)
+     ![github stats for estiens](https://github-readme-stats.vercel.app/api?username=estiens&count_private=true&show_icons=true&theme=synthwave)
 </details>
 <br/>
 
