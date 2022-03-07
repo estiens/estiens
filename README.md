@@ -1,8 +1,10 @@
 <img src="https://p198.p4.n0.cdn.getcloudapp.com/items/RBuWWNYm/github_header.png" alt="github profile header image Eric Stiens - trying to change the world still looking for the source code" />
 
-### Software Engineer (10 yr+ plaque), light PM/EngMgr duties, mentoring, automation wrangling
-![GitHub stars for estiens](https://img.shields.io/github/stars/estiens?style=flat&logo=github)
+### Software Engineer, light PM/EngMgr duties, mentoring, automation wrangling
 
+Been putting up websites since the mid-90s and coding professionally for a decade after a first life as a social policy researcher and social worker
+
+![GitHub stars for estiens](https://img.shields.io/github/stars/estiens?style=flat&logo=github)
 ### backend sun, architect moon, rising ops
 --
 
@@ -13,17 +15,17 @@
 --
 
 #### Hiring Me:
-Currently open to contract work (preferred) and FTE and PTE opportunities (if it feels like a great mutual match) - remote preferred, MSP okay, relocation no
+Currently I am working full-time for a Minneapolis-based non-profit: [M-RETS](https://www.mrets.org/). I am open to some volunteering and mentoring opportunities, and always happy to hear about what people are looking for, but I'm happy where I'm currently at!
 
 --
 
 #### Keywords:
-```Ruby, Rails, Api Design, Testing Strategies, Technical Lead, Systems Thinker, Pipeline Spelunking, Heroku, Docker, Ops, IoT, your PM's dream...```
+```Ruby, Rails, Api Design, Testing Strategies, Technical Lead, Systems Thinker, Pipeline Spelunking, Heroku, Docker, Ops, IoT, Backlog Cleaning, etc```
 
 --
 
 #### Links:
-* [ericstiens.dev](https://ericstiens.dev/) (out of date...cobbler's shoes)
+* [ericstiens.dev](https://ericstiens.dev/) (~~out of date~~ currently offline...cobbler's shoes)
 
 
 * [LinkedIn](https://www.linkedin.com/in/estiens/)
@@ -54,7 +56,3 @@ Currently open to contract work (preferred) and FTE and PTE opportunities (if it
 
 Page last updated:
 ![GitHub last commit](https://img.shields.io/github/last-commit/estiens/estiens?style=flat)
-
-
-
-
