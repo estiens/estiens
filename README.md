@@ -6,9 +6,11 @@ Been putting up websites since the mid-90s and coding professionally for a decad
 
 ![github-snake.gif](https://raw.githubusercontent.com/estiens/estiens/dist/github-snake.gif)
 
-## backend sun, architect moon, rising ops
+![GitHub Snake Light](https://raw.githubusercontent.com/estiens/estiens/dist/github-snake.svg#gh-light-mode-only)
 
-![GitHub stars for estiens](https://img.shields.io/github/stars/estiens?style=flat&logo=github)
+![GitHub Snake dark](https://raw.githubusercontent.com/estiens/estiens/dist/github-snake-dark.svg#gh-dark-mode-only)
+
+## backend sun, architect moon, rising ops - ![GitHub stars for estiens](https://img.shields.io/github/stars/estiens?style=flat&logo=github)
 --
 
 #### Location:
