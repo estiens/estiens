@@ -16,4 +16,4 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/pallete.gif?color_snake=#f4b255&color_dots=#BCC1DC ,#AAFCFC,#CF86BB,#E14B9B,#F3107A
+            dist/github-snake.gif?color_snake=#f4b255&color_dots=#BCC1DC ,#AAFCFC,#CF86BB,#E14B9B,#F3107A

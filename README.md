@@ -1,11 +1,14 @@
 <img src="https://p198.p4.n0.cdn.getcloudapp.com/items/RBuWWNYm/github_header.png" alt="github profile header image Eric Stiens - trying to change the world still looking for the source code" />
 
-### Software Engineer, light PM/EngMgr duties, mentoring, automation wrangling
+## Software Engineer, light PM/EngMgr duties, mentoring, automation wrangling
 
 Been putting up websites since the mid-90s and coding professionally for a decade after a first life as a social policy researcher and social worker
 
+![GitHub Snake](github-snake.gif)
+
+## backend sun, architect moon, rising ops
+
 ![GitHub stars for estiens](https://img.shields.io/github/stars/estiens?style=flat&logo=github)
-### backend sun, architect moon, rising ops
 --
 
 #### Location:
