@@ -4,8 +4,6 @@
 
 Been putting up websites since the mid-90s and coding professionally for a decade after a first life as a social policy researcher and social worker
 
-![github-snake.gif](https://raw.githubusercontent.com/estiens/estiens/dist/github-snake.gif)
-
 ![GitHub Snake Light](https://raw.githubusercontent.com/estiens/estiens/dist/github-snake.svg#gh-light-mode-only)
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/estiens/estiens/dist/github-snake-dark.svg#gh-dark-mode-only)
