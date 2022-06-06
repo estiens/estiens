@@ -1,0 +1,19 @@
+name: "Snake"
+on:
+  push:
+    branches:
+      - main
+      - oneandonly
+  schedule:
+    - cron:  '30 5,17 * * *'
+jobs:
+  make_the_snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/pallete.gif?color_snake=#f4b255&color_dots=#BCC1DC ,#AAFCFC,#CF86BB,#E14B9B,#F3107A
