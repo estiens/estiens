@@ -9,6 +9,7 @@ Been putting up websites since the mid-90s and coding professionally for a decad
 ![GitHub Snake dark](https://raw.githubusercontent.com/estiens/estiens/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ## backend sun, architect moon, rising ops - ![GitHub stars for estiens](https://img.shields.io/github/stars/estiens?style=flat&logo=github)
+
 --
 
 #### Location:
@@ -19,6 +20,8 @@ Been putting up websites since the mid-90s and coding professionally for a decad
 
 #### Hiring Me:
 Currently I am working full-time for a Minneapolis-based non-profit: [M-RETS](https://www.mrets.org/). I am open to some volunteering and mentoring opportunities, and always happy to hear about what people are looking for, but I'm happy where I'm currently at!
+
+[Current Resume](https://share.getcloudapp.com/5zurlRrR)
 
 --
 
