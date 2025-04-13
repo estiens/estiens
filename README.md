@@ -19,14 +19,12 @@ Been putting up websites since the mid-90s and coding professionally for a decad
 --
 
 #### Hiring Me:
-Currently I am working full-time for a Minneapolis-based non-profit: [M-RETS](https://www.mrets.org/). I am open to some volunteering and mentoring opportunities, and always happy to hear about what people are looking for, but I'm happy where I'm currently at!
-
-[Current Resume](https://share.getcloudapp.com/5zurlRrR)
+Currently I am working full-time for ~~THE MAN~~ the State of Minnesota helping build out the software to administer the [https://info.paidleave.mn.gov/](Paid Leave program) - imagine that paid time off work if you are sick or have a baby or have to take care of your parents! Almost like a functional democracy!
 
 --
 
 #### Keywords:
-```Ruby, Rails, Api Design, Testing Strategies, Technical Lead, Systems Thinker, Pipeline Spelunking, Heroku, Docker, Ops, IoT, Backlog Cleaning, etc```
+```Ruby, Rails, Api Design, Testing Strategies, AI art, LLM wrangling, Technical Lead, Systems Thinker, Pipeline Spelunking, Heroku, Docker, Ops, IoT, Backlog Cleaning, etc```
 
 --
 
@@ -37,11 +35,6 @@ Currently I am working full-time for a Minneapolis-based non-profit: [M-RETS](ht
 * [LinkedIn](https://www.linkedin.com/in/estiens/)
 
 --
-
-#### Currently excited about:
-* [Stimulus Reflex!](https://docs.stimulusreflex.com/)
-* [Typing in Ruby!](https://github.com/ruby/rbs)
-* Getting an app and an interactive art building collab off the ground...
 <br /><br />
 
 <details>
