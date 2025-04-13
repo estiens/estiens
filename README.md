@@ -29,7 +29,7 @@ Currently I am working full-time for ~~THE MAN~~ the State of Minnesota helping 
 --
 
 #### Links:
-* [ericstiens.dev](https://ericstiens.dev/) (~~out of date~~ currently offline...cobbler's shoes)
+* [ericstiens.dev](https://ericstiens.dev/)
 
 
 * [LinkedIn](https://www.linkedin.com/in/estiens/)
